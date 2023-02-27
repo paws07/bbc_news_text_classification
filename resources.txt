@@ -1,0 +1,3 @@
+https://towardsdatascience.com/nmf-a-visual-explainer-and-python-implementation-7ecdd73491f8
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
+https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
